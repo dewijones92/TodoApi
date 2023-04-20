@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W0iavnIjFzk1ydJ+Br72d5zn8xvZQFZaZrGAnF1Tyxp+GBzy+7eE0V5FFgU9eaWYJM2ferswbJLRhX9/89Ilfg==",
+  "dgSpecHash": "2HSSh+KdsSu1XHRrP2puvH2ivLuk5tUFtykyuMW1A31tN4LUpS+6530FaGubbKRcPul2y/pk1oJsUbk9aRqf8A==",
   "success": true,
   "projectFilePath": "/home/dewi/code/dewitodo/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
@@ -35,10 +35,11 @@
     "/home/dewi/.nuget/packages/microsoft.data.sqlclient.sni.runtime/5.0.1/microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "/home/dewi/.nuget/packages/microsoft.diasymreader/1.3.0/microsoft.diasymreader.1.3.0.nupkg.sha512",
     "/home/dewi/.nuget/packages/microsoft.dotnet.scaffolding.shared/7.0.0/microsoft.dotnet.scaffolding.shared.7.0.0.nupkg.sha512",
-    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
-    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
-    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0/microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
+    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
     "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.design/7.0.0/microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
+    "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.5/microsoft.entityframeworkcore.inmemory.7.0.5.nupkg.sha512",
     "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.0/microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "/home/dewi/.nuget/packages/microsoft.entityframeworkcore.sqlserver/7.0.0/microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
     "/home/dewi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
